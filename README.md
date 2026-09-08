@@ -36,4 +36,4 @@
 
 Copyright © 2026 黄至芃 Zhipeng Huang
 本作品采用 CC BY-NC-ND 4.0 许可协议，详见 [LICENSE](LICENSE)。
-公众号：坐下再说
+微信公众号：坐下再说
