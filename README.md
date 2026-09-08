@@ -6,7 +6,7 @@
 厂长的一个批复，是工程师的一次签字、工人的一个夜班、
 销售的一通电话、监管员的一份笔录。
 
-**[▶ 开始游戏](https://Zhipeng1.github.io/fifteen-years/)** 或https://green-factory-15-year-factory-d9g6t2w38a5fbdb60.webapps.tcloudbase.com/ 
+**[▶ 开始游戏](https://Zhipeng1.github.io/green-factory-15-years/)** 或https://green-factory-15-year-factory-d9g6t2w38a5fbdb60.webapps.tcloudbase.com/ 
 
 ## 五条角色线
 
